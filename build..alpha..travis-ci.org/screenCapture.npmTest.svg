@@ -1,0 +1,86 @@
+<svg height="1326" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1326" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; npmdoc-lazypipe@0.0.1 test /home/travis/build/npmdoc/node-npmdoc-lazypipe</tspan>
+<tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90"></tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-03T11:19:43Z - npm-testing /home/travis/build/npmdoc/node-npmdoc-\</tspan>
+<tspan x="10" y="122">lazypipe</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154"></tspan>
+<tspan x="10" y="170">covering $ /home/travis/.nvm/versions/node/v6.10.1/bin/node /home/travis/build/npmdoc/node-npmdo\</tspan>
+<tspan x="10" y="186">c-lazypipe/test.js</tspan>
+<tspan x="10" y="202">merging file:///home/travis/build/npmdoc/node-npmdoc-lazypipe/tmp/build/test-report.json to test\</tspan>
+<tspan x="10" y="218">-report</tspan>
+<tspan x="10" y="234">&gt; server listening on http-port 45362</tspan>
+<tspan x="10" y="250">-----------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="266">File                         |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+<tspan x="10" y="282">-----------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="298">   node-npmdoc-lazypipe/     |     96.08 |     82.54 |       100 |     96.08 |</tspan>
+<tspan x="10" y="314">      example.js             |       100 |     93.15 |       100 |       100 |</tspan>
+<tspan x="10" y="330">      lib.npmdoc_lazypipe.js |     93.75 |     64.29 |       100 |     93.75 |</tspan>
+<tspan x="10" y="346">      test.js                |     90.74 |     69.23 |       100 |     90.74 |</tspan>
+<tspan x="10" y="362">-----------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="378">All files                    |     96.08 |     82.54 |       100 |     96.08 |</tspan>
+<tspan x="10" y="394">-----------------------------|-----------|-----------|-----------|-----------|</tspan>
+<tspan x="10" y="410"></tspan>
+<tspan x="10" y="426">created coverage file:///home/travis/build/npmdoc/node-npmdoc-lazypipe/tmp/build/coverage.html/i\</tspan>
+<tspan x="10" y="442">ndex.html</tspan>
+<tspan x="10" y="458">events.js:160</tspan>
+<tspan x="10" y="474">      throw er; // Unhandled 'error' event</tspan>
+<tspan x="10" y="490">      ^</tspan>
+<tspan x="10" y="506"></tspan>
+<tspan x="10" y="522">Error: listen EADDRINUSE :::45362</tspan>
+<tspan x="10" y="538">    at Object.exports._errnoException (util.js:1018:11)</tspan>
+<tspan x="10" y="554">    at exports._exceptionWithHostPort (util.js:1041:20)</tspan>
+<tspan x="10" y="570">    at Server._listen2 (net.js:1262:14)</tspan>
+<tspan x="10" y="586">    at listen (net.js:1298:10)</tspan>
+<tspan x="10" y="602">    at Server.listen (net.js:1394:5)</tspan>
+<tspan x="10" y="618">    at Object.local.testRunServer (/home/travis/build/npmdoc/node-npmdoc-lazypipe/node_modules/u\</tspan>
+<tspan x="10" y="634">tility2/lib.utility2.js:5506:47)</tspan>
+<tspan x="10" y="650">    at /home/travis/build/npmdoc/node-npmdoc-lazypipe/test.js:8:5507</tspan>
+<tspan x="10" y="666">    at Object.&lt;anonymous&gt; (/home/travis/build/npmdoc/node-npmdoc-lazypipe/test.js:8:5566)</tspan>
+<tspan x="10" y="682">    at Module._compile (module.js:570:32)</tspan>
+<tspan x="10" y="698">    at Object.local.module._extensions..js (/home/travis/build/npmdoc/node-npmdoc-lazypipe/node_\</tspan>
+<tspan x="10" y="714">modules/utility2/lib.istanbul.js:2472:32)</tspan>
+<tspan x="10" y="730">merging file:///home/travis/build/npmdoc/node-npmdoc-lazypipe/tmp/build/test-report.json to test\</tspan>
+<tspan x="10" y="746">-report</tspan>
+<tspan x="10" y="762">&gt; server listening on http-port 45362</tspan>
+<tspan x="10" y="778">events.js:160</tspan>
+<tspan x="10" y="794">      throw er; // Unhandled 'error' event</tspan>
+<tspan x="10" y="810">      ^</tspan>
+<tspan x="10" y="826"></tspan>
+<tspan x="10" y="842">Error: listen EADDRINUSE :::45362</tspan>
+<tspan x="10" y="858">    at Object.exports._errnoException (util.js:1018:11)</tspan>
+<tspan x="10" y="874">    at exports._exceptionWithHostPort (util.js:1041:20)</tspan>
+<tspan x="10" y="890">    at Server._listen2 (net.js:1262:14)</tspan>
+<tspan x="10" y="906">    at listen (net.js:1298:10)</tspan>
+<tspan x="10" y="922">    at Server.listen (net.js:1394:5)</tspan>
+<tspan x="10" y="938">    at Object.local.testRunServer (/home/travis/build/npmdoc/node-npmdoc-lazypipe/node_modules/u\</tspan>
+<tspan x="10" y="954">tility2/lib.utility2.js:5506:47)</tspan>
+<tspan x="10" y="970">    at /home/travis/build/npmdoc/node-npmdoc-lazypipe/test.js:180:15</tspan>
+<tspan x="10" y="986">    at Object.&lt;anonymous&gt; (/home/travis/build/npmdoc/node-npmdoc-lazypipe/test.js:183:2)</tspan>
+<tspan x="10" y="1002">    at Module._compile (module.js:570:32)</tspan>
+<tspan x="10" y="1018">    at Object.Module._extensions..js (module.js:579:10)</tspan>
+<tspan x="10" y="1034">merging file:///home/travis/build/npmdoc/node-npmdoc-lazypipe/tmp/build/test-report.json to test\</tspan>
+<tspan x="10" y="1050">-report</tspan>
+<tspan x="10" y="1066"></tspan>
+<tspan x="10" y="1082">-------------------------------------------------------</tspan>
+<tspan x="10" y="1098">| test-report - buildNpmdoc - node - linux v6.10.1 - 2017-04-03T11:19:27.822Z</tspan>
+<tspan x="10" y="1114">|   11289 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="1130">-------------------------------------------------------</tspan>
+<tspan x="10" y="1146"></tspan>
+<tspan x="10" y="1162">created test-report file:///home/travis/build/npmdoc/node-npmdoc-lazypipe/tmp/build/test-report.\</tspan>
+<tspan x="10" y="1178">html</tspan>
+<tspan x="10" y="1194"></tspan>
+<tspan x="10" y="1210"></tspan>
+<tspan x="10" y="1226">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="1242"></tspan>
+<tspan x="10" y="1258"></tspan>
+<tspan x="10" y="1274">[MODE_BUILD=npmTest] - 2017-04-03T11:19:45Z - EXIT_CODE - 1</tspan>
+<tspan x="10" y="1290"></tspan>
+<tspan x="10" y="1306">npm ERR! Test failed.  See above for more details.</tspan>
+</text>
+</svg>
